@@ -3,8 +3,7 @@ STUDI KASUS “MANAJEMEN KEUANGAN HARIAN”
 
 Program Manajemen Keuangan Harian adalah sebuah sistem yang dirancang untuk membantu pengguna dalam mengelola, memantau, dan mengontrol penggunaan dana sehari-hari secara terstruktur dan efisien. Program ini memungkinkan pengguna mencatat aktivitas penggunaan pemasukan dan pengeluaran, melihat riwayat transaksi, serta dapat memberikan saran jika sudah tidak terkontrol.
 Melalui program ini, pengguna dapat menambahkan, mengecek, dan mengelola dana yang diperoleh dan digunakan. Program ini juga menyediakan saran yang membantu pengguna mengevaluasi pola penggunaan pendapatan harian.
-Berikut adalah algoritma beserta flowchart dari program manajemen keuangan harian.
-1.	Algoritma dan flowchart
+Berikut adalah algoritma dari program manajemen keuangan harian.
 -	Program dijalankan
 -	Program menampilkan menu utama kepada user:
 a.	Tambah pemasukan
